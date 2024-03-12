@@ -2,7 +2,7 @@
 
 ## Basic
 
-- 1day
+- [1day](./1day/)
 - 2day
 - 3day
 - 4day
